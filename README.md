@@ -14,6 +14,7 @@ We want you to become better at contributing to open-source and enjoy the benefi
 
 ### Resources
 
+- [Open Source Handbook](https://github.com/shainakrumme/open-source-handbook) -  A curated list of open source projects for all skill levels.
 - [Awesome Open Source](https://github.com/oscafrica/awesome-open-source) - A curated list of awesome resources about open source.
 - [Awesome OSS Docs](https://github.com/saintmalik/awesome-oss-docs) - A curated list of awesome resources about open source documentation.
 - [Open Source Guide](https://opensource.guide) - Learn how to launch and grow your open source project.
