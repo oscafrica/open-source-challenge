@@ -14,8 +14,8 @@ We want you to become better at contributing to open-source and enjoy the benefi
 
 ### Resources
 
-- [Open Source Handbook](https://github.com/shainakrumme/open-source-handbook) -  A curated list of open source projects for all skill levels.
-- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) -  How to find an open source project to contribute to on GitHub.
+- [Open Source Handbook](https://github.com/shainakrumme/open-source-handbook) - A curated list of open source projects for all skill levels.
+- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) - How to find an open source project to contribute to on GitHub.
 - [Awesome Open Source](https://github.com/oscafrica/awesome-open-source) - A curated list of awesome resources about open source.
 - [Awesome OSS Docs](https://github.com/saintmalik/awesome-oss-docs) - A curated list of awesome resources about open source documentation.
 - [Open Source Guide](https://opensource.guide) - Learn how to launch and grow your open source project.
@@ -28,13 +28,13 @@ We want you to become better at contributing to open-source and enjoy the benefi
 - [Mozilla Open Design](https://github.com/mozilla/OpenDesign) - Issues with design requests for community design groups and design tasks to tackle.
 - [The Technical Writers Guide to Contributing to Open Source Projects](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects) - An introductory guide for technical writers who want to contribute to open source projects.
 - [Open Source Projects with Volunteer Documentation Opportunities](https://www.reddit.com/r/technicalwriting/comments/800a9a/a_list_of_open_source_projects_with_volunteer/) - A list of open source projects with documentation opportunities.
+- [First Contribution](https://github.com/firstcontributions/first-contributions) - An Open source repository that aims to simplify and guide beginners to make their first contribution.
 
 ### Tools
 
 - [Open Sauced](https://opensauced.pizza/) - Open Sauced provides guidance onboarding for new contributor through GitHub GraphQL API powered dashboard.
 - [Your First PR](https://yourfirstpr.github.io/) - Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [The First Contributions Project](https://firstcontributions.github.io/) - Make your first open source contribution in 5 minutes.
-
 
 ### Challenge links
 
@@ -45,7 +45,9 @@ We want you to become better at contributing to open-source and enjoy the benefi
 - [Discord server](https://discord.gg/pRJgjH9SwR)
 
 ## Contributing
+
 Found a very useful open source guide or resource? Kindly send a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
 ## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
