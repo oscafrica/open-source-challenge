@@ -12,7 +12,7 @@ To get started:
 
 - Feel free to also open issue(s) if you want to work on something else, propose an idea or report a bug.
 
-- We use [commitizen](https://github.com/commitizen/cz-cli) on this project, ensure to read the docs if you are not familar with commitizen.
+- We use [commitizen](https://github.com/commitizen/cz-cli) on this project, ensure to read the docs if you are not familiar with commitizen.
 
 - [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) and ensure to follow the PULL REQUEST TEMPLATE
 
