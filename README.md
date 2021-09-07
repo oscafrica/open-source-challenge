@@ -4,7 +4,7 @@
 
 The Open Source Challenge 2021 aims to support the tech ecosystem in Africa to contribute to open source projects. Each participant records open source contributions made by submitting links to merged pull requests. At the end of the challenge, the top 20 contributors get rewarded.
 
-We want you to become better at contributing to open-source and enjoy the benefits of being actively involved in open-source. Hence we created the Open Source Challenge that aims to support you to contribute to open-source projects. In this repository, you will find helpful guides and resources to help you get started and contribute to open source successfully.
+We want you to become better at contributing to open-source and enjoy the benefits of being actively involved in open-source. Hence, we created the Open Source Challenge that aims to support you to contribute to open-source projects. In this repository, you will find helpful guides and resources to help you get started and contribute to open source successfully.
 
 ## Table of Contents
 
