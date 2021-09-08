@@ -10,6 +10,7 @@ We want you to become better at contributing to open-source and enjoy the benefi
 
 1. [Resources](#resources)
 2. [Tools](#tools)
+3. [Challenges to flex yourr muscles on](#challenges-to-flex-yourr-muscles-on)
 3. [Challenge links](#challenge-links)
 
 ### Resources
@@ -32,8 +33,13 @@ We want you to become better at contributing to open-source and enjoy the benefi
 ### Tools
 
 - [Open Sauced](https://opensauced.pizza/) - Open Sauced provides guidance onboarding for new contributor through GitHub GraphQL API powered dashboard.
+
+
+### Challenges to flex yourr muscles on
+These are beginner friendly open source that in you can contibute to in minutes.
 - [Your First PR](https://yourfirstpr.github.io/) - Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [The First Contributions Project](https://firstcontributions.github.io/) - Make your first open source contribution in 5 minutes.
+- [Osca Open Source Challenge 2021](https://github.com/bhantsi/osca-opensource-challenge-2021) This is beginner friendly project design specifically for this challenge 
 
 
 ### Challenge links
